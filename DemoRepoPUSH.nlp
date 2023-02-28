@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=DemoRepoPUSH
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=c86378ab-77f6-44eb-a22d-1341fadef650
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+product.version=8.2.1
